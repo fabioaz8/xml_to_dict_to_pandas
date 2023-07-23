@@ -10,7 +10,7 @@ Projeto de upload de arquivos em `.xml` para processamento de tags e conversão 
 ## Como usar
 1. Abra o arquivo **Example.xml** e ajuste as tags às variáveis da função `process_xml` com os campos desejados;
 2. Execute o código no Jupyter Notebook;
-3. Acesse o URL [http://localhost:5000](http://localhost:5000) no seu navegador para realizaro o upload do arquivo em `.xml`.
+3. Acesse o URL [http://localhost:5000](http://localhost:5000) no seu navegador para realizar o o upload do arquivo em `.xml`.
 4. Clique no botãão enviar e localize o documento exportado no diretório raiz do projeto.
 
 Bons estudos! :snake: :books:
