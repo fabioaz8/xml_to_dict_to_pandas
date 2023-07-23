@@ -2,12 +2,15 @@
 
 Projeto de upload de arquivos em `.xml` para processamento de tags e conversão para um pandas data frame via Jupyter Notebook e visualização em um navegador via Flask.
 
-## Arquivos
-- **Example.xml** - Arquivo de exemplo com as tags correspondentes ao código de exemplo.
+## Arquivos e Diretórios
+- **Example.xml** - Arquivo de exemplo com as tags correspondentes ao código de exemplo;
+- **xml_to_dicts_to_pandas.ipynb** - Arquivo em formato .ipynb com o código da aplicação;
+- **templates** - Diretórico com o arquivo `index.html` com o código para a página de upload de arquivos pelo navegador. 
 
 ## Como usar
-1. Abra o arquivo **Example.xml** e ajuste as tags às variáveis da função `process_xml` com os campos desejados.
-2. Execute o código no Jupyter Notebook.
-3. Acesse o URL [http://localhost:5000](http://localhost:5000) no seu navegador para visualizar o data frame.
+1. Abra o arquivo **Example.xml** e ajuste as tags às variáveis da função `process_xml` com os campos desejados;
+2. Execute o código no Jupyter Notebook;
+3. Acesse o URL [http://localhost:5000](http://localhost:5000) no seu navegador para realizaro o upload do arquivo em `.xml`.
+4. Clique no botãão enviar e localize o documento exportado no diretório raiz do projeto.
 
-Bons estudos! Espero que isso ajude!
+Bons estudos! :snake: :books:
