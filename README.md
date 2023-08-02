@@ -7,7 +7,7 @@ Projeto de upload de arquivos em `.xml` para processamento de tags e conversão 
 ## Arquivos e Diretórios
 - **Example.xml** - Arquivo de exemplo com as tags correspondentes ao código de exemplo;
 - **xml_to_dicts_to_pandas.ipynb** - Arquivo em formato .ipynb com o código da aplicação;
-- **templates** - Diretórico com o arquivo `index.html` com o código para a página de upload de arquivos pelo navegador. 
+- **templates** - Diretório com o arquivo `index.html` com o código para a página de upload de arquivos pelo navegador. 
 
 ## Como usar
 1. Abra o arquivo **Example.xml** e ajuste as tags às variáveis da função `process_xml` no arquivo `xml_to_dicts_to_pandas.ipynb` com os campos desejados;
