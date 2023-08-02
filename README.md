@@ -2,7 +2,7 @@
 
 # Flask + Jupyter Notebook: xml_to_dict_to_pandas_to_xlsx
 
-Projeto de upload de arquivos em `.xml` para processamento de tags e conversão para um Pandas DataFframe via Jupyter Notebook e visualização em um navegador via Flask. Ao final do processo é possível realizar o download do arquivo conertido em formato `.xlsx`!
+Projeto de upload de arquivos em `.xml` para processamento de tags e conversão para um Pandas DataFframe via Jupyter Notebook e visualização em um navegador via Flask. Ao final do processo é possível realizar o download do arquivo convertido em formato `.xlsx`!
 
 ## Arquivos e Diretórios
 - **Example.xml** - Arquivo de exemplo com as tags correspondentes ao código de exemplo;
