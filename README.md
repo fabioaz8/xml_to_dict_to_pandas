@@ -12,7 +12,7 @@ Projeto de upload de arquivos em `.xml` para processamento de tags e conversão 
 ## Como usar
 1. Abra o arquivo **Example.xml** e ajuste as tags às variáveis da função `process_xml` no arquivo `xml_to_dicts_to_pandas.ipynb` com os campos desejados;
 2. Execute o código no Jupyter Notebook;
-3. Acesse o URL [http://localhost:5000](http://localhost:5000) no seu navegador para realizar o o upload do arquivo em `.xml`.
+3. Acesse a URL > [http://localhost:5000](http://localhost:5000) no seu navegador para realizar o o upload do arquivo em `.xml`.
 4. Clique no botão `Enviar` e localize o documento em formato `.xlsx` exportado no diretório raiz do projeto.
 
 Bons estudos! :snake: :books:
